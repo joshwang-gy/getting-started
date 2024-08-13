@@ -11,4 +11,7 @@ This is an ordered list:
 And this is an unordered list:
  - a
  - b
- - c"# getting-started" 
+ - c
+
+The onboarding guide asks me to make some changes by adding some terraform files in, but we decided to remove that stuff
+for the sake of simplicity / not having to deal with some annoying DevOps stuff.
